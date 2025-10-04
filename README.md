@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **python, SQL etc.**
 
-- 📫 How to reach me **supriti.barua22@gmail.com**
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Supriti Barua) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.suppzzz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Supriti Barua) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/supritibarua2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supriti.barua22@gmail.com) 
 
